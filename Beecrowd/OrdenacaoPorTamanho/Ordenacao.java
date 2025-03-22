@@ -8,7 +8,7 @@
  *  Data: 21/03/2025
  ******************************************************************************/
 
- import java.util.*; 
+import java.util.*; 
 public class Ordenacao {
     public static void main(String[] args) {
         Scanner rc = new Scanner(System.in);
