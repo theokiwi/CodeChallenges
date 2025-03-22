@@ -3,8 +3,8 @@
  *  ETIQUETAS DE NOEL - BEECROWD
  *  
  *  Autor: Theo Diniz Viana
+ *  Nota: 100/100
  *  Linguagem: JAVA 19
- *  Pontuação: 100/100
  *  Data: 22/03/2025
  ******************************************************************************/
 import java.util.*;

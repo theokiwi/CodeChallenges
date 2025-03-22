@@ -3,8 +3,8 @@
  *  ETIQUETAS DE NOEL - BEECROWD
  *  
  *  Autor: Theo Diniz Viana
+ *  Nota: 100/100
  *  Linguagem: C99
- *  Pontuação: 100/100
  *  Data: 21/03/2025
  ******************************************************************************/
 #include <stdio.h>
